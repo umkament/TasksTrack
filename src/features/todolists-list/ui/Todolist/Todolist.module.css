@@ -1,0 +1,9 @@
+.buttonGroup {
+  padding-top: 10px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

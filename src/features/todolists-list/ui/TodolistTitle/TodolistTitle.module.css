@@ -1,0 +1,11 @@
+.titleWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  display: inline-block;
+  width: 85%;
+  word-wrap: break-word;
+}

@@ -1,0 +1,25 @@
+.container {
+  min-height: 100vh;
+  width: 100%;
+  max-width: 1200px; /* Ограничение максимальной ширины контейнера */
+  margin: 0 auto;
+  background-color: rgba(10, 102, 217, 0.13);
+}
+
+.circularProgress {
+  position: fixed;
+  top: 30%;
+  text-align: center;
+  width: 100%;
+}
+
+.errorHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerFlex {
+  display: flex;
+  justify-content: space-between;
+}
